@@ -8,7 +8,7 @@ I was here, Earth.\
 You can contact me if you are interested (and yeah if I'm still alive).\
 I prefer Thai over other languages if you speak it too.\
 \
-By the way, I also attached my picture below if you would like to see.\
+By the way, I also attached my picture below if you would like to see it.\
 \
 Warm regards,\
 Phuwanai Thummavet\
