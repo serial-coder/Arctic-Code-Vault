@@ -8,6 +8,8 @@ I was here, Earth.\
 You can contact me if you are interested (and yeah if I'm still alive).\
 I prefer Thai over other languages if you speak it too.\
 \
+By the way, I also attached my picture below if you would like to see.\
+\
 Warm regards,\
 Phuwanai Thummavet\
 January 31, 2020*
@@ -21,3 +23,8 @@ January 31, 2020*
 #### **Facebook:** [fb.com/br1gh7n4ry](https://www.facebook.com/br1gh7n4ry)
 #### **Twitter:** [@br1gh7n4ry](https://twitter.com/br1gh7n4ry)
 #### **E-mail:** [mr[.]thummavet[at]gmail[.]com](mailto:mr.thummavet@gmail.com)
+
+\
+--\
+Attached picture\
+<img src="./img/serial-coder.jpg" width="500" />
